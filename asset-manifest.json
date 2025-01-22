@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/QR-Code-Gen-React-MERn/static/css/main.c3e2f11a.css",
+    "main.js": "/QR-Code-Gen-React-MERn/static/js/main.f18b8492.js",
+    "static/media/QR.jpg": "/QR-Code-Gen-React-MERn/static/media/QR.94e1e03116151d9b72cd.jpg",
+    "index.html": "/QR-Code-Gen-React-MERn/index.html",
+    "main.c3e2f11a.css.map": "/QR-Code-Gen-React-MERn/static/css/main.c3e2f11a.css.map",
+    "main.f18b8492.js.map": "/QR-Code-Gen-React-MERn/static/js/main.f18b8492.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3e2f11a.css",
+    "static/js/main.f18b8492.js"
+  ]
+}
