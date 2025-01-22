@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import './App.css';
 import Img from './QR.jpg'
 const App = () => {
-  // Parameeters
+  // Parameters
   const [image,setimage] = useState(Img);
   const [load,setload] = useState(false);
   const [qrdata,setqrdata] = useState("");
